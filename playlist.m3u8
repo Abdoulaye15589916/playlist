@@ -1,0 +1,32 @@
+#EXTM3U
+###############
+### SPORTS ###
+###############
+
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",BET EAST
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC",BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT",BET HER
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC",BET SOUL
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS",BIG TEN NETWORK
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="NEWS",BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 group-title="KIDS",BOOMERANG
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
