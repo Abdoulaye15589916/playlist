@@ -2,8 +2,6 @@
 ###############
 ### SPORTS ###
 ###############
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
